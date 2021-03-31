@@ -1,0 +1,36 @@
+body{
+		background-color:#7C6B73;
+}
+.hm{
+	text-align:left;
+}
+
+
+#main{
+	height: auto;
+	padding:20px;
+	margin-left:auto;
+	margin-right:auto;
+}
+
+.logo{
+	text-align:center;
+}
+.pr{
+	text-align:center;
+	color:#000000;
+	font-family: Trebuchet MS, sans-serif;
+}
+
+
+.pr2{
+	text-align:center;
+	color:#000000;
+	font-family: Trebuchet MS, sans-serif;
+}
+
+.video{
+	
+	text-align:center;
+	
+}	

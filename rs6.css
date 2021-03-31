@@ -1,0 +1,56 @@
+body{
+		background-color:black;
+}
+.hm{
+	text-align:left;
+}
+
+
+#main{
+	height: auto;
+	padding:20px;
+	margin-left:auto;
+	margin-right:auto;
+}
+
+.logo{
+	text-align:center;
+}
+
+
+
+p{
+    padding: 20px;
+    border: 1px solid;
+	border-color:#DC4343 ;
+	border-style:outset;
+	border-width:10px;
+    border-radius: 20px;
+    margin-bottom: 20px;
+}
+.pr{
+	text-align:center;
+	color:#DC4343;
+	font-family: FreeMono, monospace;
+	font-style: italic;
+	font-variant: small-caps;
+	font-size: 60;
+}
+
+
+.pr2{
+	text-align:center;
+	color:#DC4343;
+	font-family: Trebuchet MS, sans-serif;
+	font-style: italic;
+	font-size: 20;
+}
+
+.video{
+	
+	text-align:center;
+	
+}	
+
+}
+	

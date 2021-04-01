@@ -4,10 +4,14 @@
 	<link href="styles.css" rel="stylesheet">
 	<link rel="icon" href="img\zas.jpeg" />
 	<meta charset="UTF-8"/>
+	<script src="https://cdn.jsdelivr.net/npm/sweetalert2@9"></script>
 	
 </head>
 	
 <body>
+<div style="height: 1px;">
+    <button onclick="fireSweetAlert()">?</button>
+  </div>
 <ul id="navigation">
 	<div class="home">
 		<h1 class="hm"><a href="#"><img src="img\zas.jpeg" height="100px" /></a>
@@ -25,8 +29,21 @@
 <a href="G63.html"><img src="img\G63.jpg" height="300px" /></a>
 <a href="C63s.html"><img src="img\C36 s.jpg" height="300px"/></a>
 <a href="rs7.html"><img src="img\rs7_1.jpg" height="300px"/></a></br>
-<a href="m8.html"><img src="img\m8competition.jpg" height="300px"/></a>
+<a href="m8.html"><img src="img\m8_4.png" height="300px"/></a>
 </div>
+
+  <script>
+
+    function fireSweetAlert() {
+        Swal.fire(
+            'Bon boulot!',
+            'Vous avez trouvé le bouton secret!',
+            'success'
+        )
+    }
+//alert("Il y a un bouton quelque part sur le site")
+  </script>
+
 </body>
 
 </html>

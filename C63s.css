@@ -1,5 +1,5 @@
 body{
-		background-color:#FFFFFF;
+		background-color:#C9E3D8;
 }
 .hm{
 	text-align:left;
@@ -8,7 +8,7 @@ body{
 
 #main{
 	height: auto;
-	padding:20px;
+	padding:30px;
 	margin-left:auto;
 	margin-right:auto;
 }
@@ -18,19 +18,20 @@ body{
 }
 .pr{
 	text-align:center;
-	color:#000000;
-	font-family: Trebuchet MS, sans-serif;
+	color:#3F4542;
+	font-family: Jazz LET, fantasy;
 }
 
 
 .pr2{
 	text-align:center;
 	color:#000000;
-	font-family: Trebuchet MS, sans-serif;
+	font-family: FreeMono, monospace;
+	font-size:19;
 }
 
 .video{
 	
 	text-align:center;
 	
-}	s
+}	
